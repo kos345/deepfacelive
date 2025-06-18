@@ -10,5 +10,6 @@ from .FaceMerger import FaceMerger
 from .FaceSwapInsight import FaceSwapInsight
 from .FaceSwapDFM import FaceSwapDFM
 from .FileSource import FileSource
+from .FileSourceNoUI import FileSourceNoUI
 from .FrameAdjuster import FrameAdjuster
 from .StreamOutput import StreamOutput
